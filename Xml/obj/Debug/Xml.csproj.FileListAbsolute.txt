@@ -1,0 +1,12 @@
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\C Sharp database\Xml\Xml\bin\Debug\Xml.exe.config
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\C Sharp database\Xml\Xml\bin\Debug\Xml.exe
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\C Sharp database\Xml\Xml\bin\Debug\Xml.pdb
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\C Sharp database\Xml\Xml\obj\Debug\Xml.csprojAssemblyReference.cache
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\C Sharp database\Xml\Xml\obj\Debug\Xml.Form1.resources
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\C Sharp database\Xml\Xml\obj\Debug\Xml.Properties.Resources.resources
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\C Sharp database\Xml\Xml\obj\Debug\Xml.csproj.GenerateResource.cache
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\C Sharp database\Xml\Xml\obj\Debug\Xml.csproj.CoreCompileInputs.cache
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\C Sharp database\Xml\Xml\obj\Debug\Xml.exe
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\C Sharp database\Xml\Xml\obj\Debug\Xml.pdb
+D:\C Sharp database\Xml\Xml\obj\Debug\Xml.exe
+D:\C Sharp database\Xml\Xml\obj\Debug\Xml.pdb

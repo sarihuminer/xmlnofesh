@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AllVacations>
+  <Vacation name="Golan" id="0">
+    <location>miron</location>
+    <price>500$</price>
+    <Atractions>
+       <atraction price="50"> pool </atraction>
+      <atraction price="50"> museum </atraction>
+      <atraction price="50"> kivrey tzadikim </atraction>
+    </Atractions>
+      </Vacation>
+
+  <Vacation name="Hotel" id="1">
+    <location>zirich</location>
+    <price>5000$</price>
+    <Atractions>
+      <atraction price="80"> ski </atraction>
+      <atraction price="100"> pool </atraction>
+      <atraction price="560"> rakevel </atraction>
+      <atraction price="400"> luna-park </atraction>
+    </Atractions>
+  </Vacation>
+</AllVacations>
+ 
